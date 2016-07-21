@@ -22,6 +22,10 @@
   3. [ ] google
 
 ### Project details
-  1. Project name: 
+  1. Project name: tyshaun is the best at call of duty 
   2. Project summary:
-  3. Project coordinator: 
+    1. Summary about me
+    2. The Video Game that I'm Best At
+    3. The Best Part of the Video Game
+    4. My Highlights and Stats
+  3. Project coordinator: Sylvester Mobley
