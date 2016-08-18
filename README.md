@@ -22,10 +22,10 @@
   3. [ ] google
 
 ### Project details
-  1. Project name: tyshaun is the best at call of duty 
+  1. Project name: gamedepot
   2. Project summary:
-    1. Summary about me
-    2. The Video Game that I'm Best At
-    3. The Best Part of the Video Game
-    4. My Highlights and Stats
+    1. this is a gaming site about games that we all love and know.
+    2. on gamedepot we will break down the characters.
+    3. we will talk about the characters personalty and the way they act.
+    4. 
   3. Project coordinator: Sylvester Mobley
